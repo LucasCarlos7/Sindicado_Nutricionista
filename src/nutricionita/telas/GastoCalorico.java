@@ -48,7 +48,7 @@ public class GastoCalorico extends javax.swing.JFrame {
         LbRespBasal = new javax.swing.JLabel();
         LbRespTotal = new javax.swing.JLabel();
 
-        setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
 
         jPanel1.setBorder(javax.swing.BorderFactory.createEtchedBorder());
 
